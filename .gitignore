@@ -1,0 +1,14 @@
+# Xcode
+build/
+build-release/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.moved-aside
+
+# macOS
+.DS_Store
+
+# Личные материалы (App Store, заметки) — не публикуются
+private/
